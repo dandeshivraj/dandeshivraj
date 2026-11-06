@@ -12,6 +12,12 @@ I'm a passionate Computer Science student interested in building scalable, respo
 
 ---
 
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dandeshivraj/dandeshivraj/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+</p>
+
 ### 🚀 About Me
 
 - 🎓 Pursuing B.E. in Computer Science & Engineering at Dayananda Sagar College of Engineering.

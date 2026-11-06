@@ -25,6 +25,10 @@ I'm a passionate Computer Science student interested in building scalable, respo
 
 ### 🛠️ Tech Stack
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,html,css,react,tailwind,nodejs,express,mongodb,mysql,git,github,vscode" />
+</p>
+
 **Programming Languages**
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -83,6 +87,12 @@ Tech: HTML, CSS, JavaScript.
 ---
 
 ### 📊 GitHub Statistics
+
+### 🏆 GitHub Profile Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dandeshivraj&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dandeshivraj&show_icons=true&theme=tokyonight&hide_border=true)
 

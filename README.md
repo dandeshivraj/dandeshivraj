@@ -102,8 +102,8 @@ Tech: HTML, CSS, JavaScript.
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=dandeshivraj&show_icons=true&theme=tokyonight" height="180" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=dandeshivraj&layout=compact&theme=tokyonight" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dandeshivraj&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dandeshivraj&layout=compact&theme=tokyonight&hide_border=true" height="180" />
 </p>
 
 ### 📌 My GitHub Summary
@@ -116,7 +116,7 @@ Tech: HTML, CSS, JavaScript.
 ### 📈 Contribution Activity
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=dandeshivraj&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dandeshivraj&theme=tokyo-night&hide_border=true" width="100%" />
 </p>
 
 

@@ -29,6 +29,13 @@ I'm a passionate Computer Science student interested in building scalable, respo
 
 ---
 
+### 💻 Currently Working On
+
+- 🚀 Building full-stack applications using the MERN stack.
+- 🧩 Solving Data Structures & Algorithms problems using C++.
+- 🌱 Exploring backend development and REST API design.
+- 📚 Preparing for Software Engineering opportunities.
+
 ### 🛠️ Tech Stack
 
 <p align="center">
@@ -93,6 +100,12 @@ Tech: HTML, CSS, JavaScript.
 ---
 
 ### 📊 GitHub Statistics
+
+### 📌 My GitHub Summary
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dandeshivraj&theme=tokyonight" width="100%" />
+</p>
 
 ### 📈 Contribution Activity
 

@@ -88,6 +88,12 @@ Tech: HTML, CSS, JavaScript.
 
 ### 📊 GitHub Statistics
 
+### 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dandeshivraj&theme=tokyo-night&hide_border=true" width="100%" />
+</p>
+
 ### 🏆 GitHub Profile Trophies
 
 <p align="center">
@@ -125,4 +131,8 @@ Tech: HTML, CSS, JavaScript.
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dandeshivraj&label=Profile%20Views&color=blueviolet&style=flat-square" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dandeshivraj&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
 </p>

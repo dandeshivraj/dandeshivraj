@@ -120,9 +120,7 @@ Tech: HTML, CSS, JavaScript.
 </p>
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dandeshivraj&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dandeshivraj&layout=compact&theme=tokyonight&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=dandeshivraj&theme=tokyonight&hide_border=true)
 

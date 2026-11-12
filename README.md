@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Shivraj Dande
+# 👋 Hi, I'm Shivraj
 
 ### 💻 Full Stack Developer | MERN Stack | C++ | DSA
 
